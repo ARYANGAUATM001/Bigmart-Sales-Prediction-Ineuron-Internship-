@@ -1,4 +1,4 @@
-# Bigmart-Sales-Prediction-Ineuron-Internship-
+# Sales-Prediction-Ineuron-Internship-
 
 OBJECTIVE : 
 
