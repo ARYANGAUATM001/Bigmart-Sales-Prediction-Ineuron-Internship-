@@ -9,7 +9,7 @@ Primary aim of this project is to build machine learning model that give the sho
 
 Project video :
 
-https://youtu.be/GmC58m2pskY
+https://youtu.be/gMDsL9S1U44?si=mdxxsw9f8Gxk11K3
 
 
 PROBLEM STATEMENT :
